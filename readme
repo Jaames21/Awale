@@ -1,0 +1,9 @@
+Fichier readme pour le jeu de l'awalé :
+
+Ligne de compilation : gcc -Wall awale.c -o awale
+
+Nouveauté :
+- Ajout de la prise de graines
+- Ajout d'un menu permettant de choisir le mode de jeu (Joueur contre Joueur ou Joueur contre IA)
+- Ajout de l'IA facile
+
